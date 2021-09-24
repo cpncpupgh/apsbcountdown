@@ -12,6 +12,18 @@ body {
   margin: 0;
 }
 
+.header{
+  position: fix;
+  height:10px;
+  background-color: rgb(99, 72, 133);
+}
+
+img{
+  width: 150px;
+  padding-left: 5%;
+  padding-top: 2%;
+  
+}
 
 .register {
   text-align: center;
@@ -72,6 +84,7 @@ h1 {
   letter-spacing: 8px;
   color: #fff;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .countdown {
