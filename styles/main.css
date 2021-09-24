@@ -11,19 +11,7 @@ body {
   height: 100vh;
   margin: 0;
 }
-/* 
-.wrapper {
-  width: 1170px;
-  margin: auto;
-  float: left;
-} */
 
-.logo img{
-  width: 150px;
-  float: left;
-  padding-left: 5%;
-  padding-top: 3%;
-}
 
 .register {
   text-align: center;
