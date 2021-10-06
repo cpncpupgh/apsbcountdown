@@ -14,7 +14,7 @@ window.addEventListener('load', () => {
     let totalSeconds;
     
     function init() {
-        totalSeconds = Math.floor((new Date('October 7, 2021 10:00:00') - new Date()) / 1000); 
+        totalSeconds = Math.floor((new Date('October 7, 2021 9:30:00') - new Date()) / 1000); 
         setTimeLeft();
         let interval = setInterval(() => {
             if (totalSeconds < 0) {
